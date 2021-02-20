@@ -27,7 +27,7 @@ Run ```npm install```
 Run ```npm start```
 
 ## Preview
-![Preview](https://github.com/nsuroghon/Workout-Tracker/blob/main/public/img/Screen%20Shot%202021-02-10%20at%207.07.30%20PM.png)
+![Preview](https://github.com/nsuroghon/Budget-Tracker/blob/main/public/img/Screen%20Shot%202021-02-19%20at%2010.54.55%20PM.png)
 
 ## License
 MIT License.
