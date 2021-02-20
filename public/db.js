@@ -27,7 +27,6 @@ function checkDatabase() {
   const transaction = db.transaction(["pending"], "readwrite");
   const store = transaction.objectStore("pending");
   const getAll = store.getAll();
-  console.log(transaction);
 
   getAll.onsuccess = function() {
     if (getAll.result.length > 0) {
