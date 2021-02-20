@@ -72,6 +72,3 @@ self.addEventListener("install", function (evt) {
     );
   }
     });
-
-// // Serve static files from the cache. Proceed with a network request when the resource is not in the cache. 
-// // This code allows the page to be accessible offline. (This code should be placed in the function handling the fetch event.)
