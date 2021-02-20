@@ -82,6 +82,3 @@ evt.respondWith(
     });
   })
 );
-
-// Type the remaining code to cache responses for requests for data. 
-// The function handling the fetch event should resemble the following:
