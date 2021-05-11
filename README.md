@@ -13,7 +13,7 @@
 ## Description
 The Budget Tracker Application allows a user to make deposits and withdrawls to an account balance with or without access to internet connection. Offline transactions populate the total balance once an online connection is established. 
 
-As a student developer, the Budget Tracker App serves as a practice exercise in using IndexedDB for client-side storage, and Service Worker to manipulate how network requests are handled. 
+This application utilizes IndexedDB for client-side storage, and Service Worker to manipulate how network requests are handled. 
 
 ## Visit
 [Visit Budget Tracker Application](https://fierce-reef-41934.herokuapp.com)
